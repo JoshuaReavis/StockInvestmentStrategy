@@ -10,7 +10,7 @@ import java.io.*;
 import java.util.*;
 import java.sql.*;
 
-public class Assignment2{
+public class StockInvestmentStrategy{
                                          
    static ArrayList<StockData> StockArray = new ArrayList();
    static boolean foundCompany = false; 
