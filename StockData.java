@@ -1,5 +1,4 @@
 // Josh Reavis
-// Created for CSCI 330 Database Systems
 // Fall 2016
 // Provides the StockData class to conveniently provide a place to store our Stock Date
 
