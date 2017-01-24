@@ -1,5 +1,4 @@
 // Josh Reavis
-// Created for CSCI 330 Database Systems
 // Fall 2016
 
 // Given an SQL database with Stock Market data, this program runs through the data
